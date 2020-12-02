@@ -1,6 +1,6 @@
 #!/bin/bash
-TARGET="/home/webuser/deploy-folder"
-GIT_DIR="/home/webuser/www.git"
+TARGET="/var/www/html"
+GIT_DIR="/home/ubuntu/mastersite"
 BRANCH="master"
 
 while read oldrev newrev ref

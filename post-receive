@@ -1,3 +1,5 @@
+echo "POST RECEIVE SCRIPT MESSAGE FROM WEBSERV1"
+
 #!/bin/bash
 TARGET="/var/www/html"
 GIT_DIR="/home/ubuntu/mastersite"
